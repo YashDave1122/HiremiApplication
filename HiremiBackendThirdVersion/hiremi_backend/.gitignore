@@ -1,0 +1,15 @@
+venv/
+.ropeproject/
+.mypy_cache/
+**/__pycache__/
+tests/
+nohup.out
+.env
+
+# Ignore SQLite database file
+db.sqlite3
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo

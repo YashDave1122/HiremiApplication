@@ -1,0 +1,2 @@
+C:/Users/amitk/predashboard/android/app/.cxx/RelWithDebInfo/5lc713x2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/amitk/predashboard/android/app/.cxx/RelWithDebInfo/5lc713x2/arm64-v8a/CMakeFiles/rebuild_cache.dir
