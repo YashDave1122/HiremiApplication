@@ -1,0 +1,21 @@
+# ===== Django =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+venv/
+.env
+
+# ===== Flutter/Dart =====
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
